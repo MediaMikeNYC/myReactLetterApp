@@ -1,0 +1,17 @@
+#startButton {
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+#stopButton {
+    margin-top: 30px;
+    padding: 7px;
+    font-size: 15px;
+    background-color: #8A0905;
+    
+}
+
+#stopButton:hover {
+    background-color: #ad1c18;
+
+}

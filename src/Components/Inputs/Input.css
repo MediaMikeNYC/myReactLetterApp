@@ -1,0 +1,21 @@
+.inputField {
+  margin: 10px;
+  width: 400px;
+  height: 30px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 2px;
+}
+
+.inputButton {
+  padding: 7px;
+  background-color: #05868a;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.inputButton:hover {
+  background-color: #099499;
+}
